@@ -1,4 +1,4 @@
-name: "Build emu (Windows)"
+name: "Build steamclient (Windows)"
 
 on:
   workflow_call:
